@@ -1,6 +1,6 @@
 ﻿# 📚 CampusLib - Modern Library Management System
 
-![.NET Core](https://img.shields.io/badge/.NET%20Core-8.0-purple) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326ce5) ![License](https://img.shields.io/badge/License-MIT-green)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-8.0-purple)
 
 **CampusLib** is a full-stack Library Management System built with **ASP.NET Core 8 MVC**. It features a modern, custom "Dark Glassmorphism" UI, role-based security, and full orchestration support via Docker and Kubernetes.
 
