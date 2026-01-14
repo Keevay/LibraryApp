@@ -2,7 +2,7 @@
 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-8.0-purple)
 
-**CampusLib** is a full-stack Library Management System built with **ASP.NET Core 8 MVC**. It features a modern, custom "Dark Glassmorphism" UI, role-based security, and full orchestration support via Docker and Kubernetes.
+**CampusLib** is a full-stack Library Management System built with **ASP.NET Core 8 MVC**. It features a modern dark UI, role-based security, and full orchestration support via Docker and Kubernetes.
 
 ---
 
@@ -32,8 +32,6 @@
 * **Database:** * *Development:* SQL Server LocalDB
     * *Production:* SQL Server 2022 (Docker Container)
 * **Frontend:** Razor Views, Bootstrap 5, Bootstrap Icons, Custom CSS
-* **Containerization:** Docker Desktop (Linux Containers)
-* **Orchestration:** Kubernetes (Manifests included)
 
 ---
 
@@ -47,8 +45,8 @@
 ### Installation
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/CampusLib.git](https://github.com/yourusername/CampusLib.git)
-    cd CampusLib
+    git clone [https://github.com/yourusername/LibraryApp.git](https://github.com/yourusername/LibraryApp.git)
+    cd LibraryApp
     ```
 
 2.  **Database Migration**
@@ -59,12 +57,12 @@
     *This creates the `LibraryDb` database and seeds the initial Admin account.*
 
 3.  **Run the Application**
-    * Select **"https"** or **"CampusLib"** from the launch profile dropdown (do not select Docker yet).
+    * Select **"https"** or **"LibraryApp"** from the launch profile dropdown (do not select Docker yet).
     * Press **F5**.
 
 4.  **Default Admin Credentials**
-    * **Email:** `admin@admin.com`
-    * **Password:** `Admin123!`
+    * **Email:** `admin@amine.com`
+    * **Password:** `Amine123!`
 
 ---
 
@@ -77,8 +75,6 @@ CampusLib/
 │   ├── Models/            # Database Entities
 │   ├── Views/             # Razor Pages (UI)
 │   ├── wwwroot/           # CSS, JS, Images
-│   ├── k8s/               # Kubernetes YAML Manifests
-│   ├── Dockerfile         # Container instructions
 │   └── Program.cs         # App entry point & Config
 
 ---
