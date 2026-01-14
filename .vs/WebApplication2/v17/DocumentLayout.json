@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\migrations\\20251212162335_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:migrations\\20251212162335_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|c:\\users\\aekng\\source\\repos\\webapplication2\\migrations\\20251219144105_addusertoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2335F6-DF10-4627-A454-E071BB9C9FB5}|WebApplication2.csproj|solutionrelative:migrations\\20251219144105_addusertoloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAFwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-14T18:45:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T14:04:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:28:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Index.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:12:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T18:11:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:49:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:46:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T15:47:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T14:13:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:32:22.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:32:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:12:06.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:26:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:21:46.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Views\\Loans\\Create.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T14:48:05.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:55:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:06:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T16:58:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T16:58:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:21:02.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Controllers\\LoansController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:43:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:02:47.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:17:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251219144105_AddUserToLoan.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Migrations\\20251219144105_AddUserToLoan.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251219144105_AddUserToLoan.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Migrations\\20251219144105_AddUserToLoan.cs",
+              "RelativeToolTip": "Migrations\\20251219144105_AddUserToLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:41:05.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:22:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:48:10.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:38:39.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251212162335_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Migrations\\20251212162335_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251212162335_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\aekng\\source\\repos\\WebApplication2\\Migrations\\20251212162335_AddIdentity.cs",
+              "RelativeToolTip": "Migrations\\20251212162335_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:23:36.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

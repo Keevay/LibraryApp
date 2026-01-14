@@ -1,0 +1,64 @@
+﻿@model WebApplication2.Models.Loan
+
+@{
+    ViewData["Title"] = "Create Loan";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow border-0 mt-4">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0"><i class="bi bi-plus-circle me-2"></i>New Loan Record</h4>
+            </div>
+            <div class="card-body bg-light">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="BookId" class="form-label fw-bold">Select Book</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="bi bi-book"></i></span>
+                            <select asp-for="BookId" class="form-select" asp-items="ViewBag.BookId"></select>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="UserId" class="form-label fw-bold">Select Member</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="bi bi-person"></i></span>
+                            <select asp-for="UserId" class="form-select" asp-items="ViewBag.UserId"></select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 form-group mb-3">
+                            <label asp-for="LoanDate" class="form-label fw-bold">Loan Date</label>
+                            <input asp-for="LoanDate" class="form-control" />
+                            <span asp-validation-for="LoanDate" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-6 form-group mb-3">
+                            <label asp-for="ReturnDate" class="form-label fw-bold">Return Date (Optional)</label>
+                            <input asp-for="ReturnDate" class="form-control" />
+                            <span asp-validation-for="ReturnDate" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2 mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg shadow-sm">
+                            <i class="bi bi-save me-2"></i>Create Loan
+                        </button>
+                        <a asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="bi bi-arrow-left me-2"></i>Back to List
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
